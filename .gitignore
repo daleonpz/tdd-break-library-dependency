@@ -1,0 +1,7 @@
+cscope.files
+cscope.out
+tags
+/*.log
+/build/
+/arm-gdb-server
+/testbuild/
